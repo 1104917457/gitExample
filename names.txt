@@ -1,2 +1,3 @@
-boss.xzou42,Xu,Zou
+boss,xzou42,Xu,Zou
+
 employee,jwang2657,Wang,Jiayang
